@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">스마텔 사용량 조회</string>
+
+    <string name="smartel_phone">01025513286</string>
+    <string name="smartel_name">ECA095EB8C80ED9DAC</string>
+    <string name="smartel_pw">wjdeogml1!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5633974741090314/4291867686</string>
+    <string name="ads_app_id">ca-app-pub-5633974741090314~2041108869</string>
+
+</resources>
